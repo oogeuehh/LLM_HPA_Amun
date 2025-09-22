@@ -50,6 +50,6 @@ All logging information are stored in the "logs" subdirectory of your Amun insta
 Amun can be executed with `-a` parameter to analyse a given file for known shellcode instead of running the honeypot. 
 
 ## Basic HPA Generation
-Process input\_manager.py to get extracted input commands from Cowrie logs.
+Process input\_manager.py to get extracted input commands from Cowrie logs.</br>
 Process core/get\_basic\_HPA.py with extracted input commands to generate count transition matrix and probability transition matrix.
 
