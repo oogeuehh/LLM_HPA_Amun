@@ -1,0 +1,74 @@
+2025-08-26 17:49:31,562 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:49:37,506 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:49:43,677 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:49:48,767 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:49:54,694 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:00,822 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:06,946 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:12,939 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:13,815 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:14,639 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:20,487 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:26,432 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:31,378 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:32,236 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:38,487 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:44,694 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:48,072 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:51,425 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:52,704 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:50:58,590 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:04,560 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:05,531 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:11,637 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:16,819 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:18,203 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:21,400 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:22,434 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:23,375 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:24,160 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:25,305 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:31,339 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:37,787 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:43,589 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:49,186 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:50,142 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:51:55,969 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:02,010 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:07,869 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:11,709 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:16,423 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:17,326 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:20,122 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:21,048 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:21,883 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:23,873 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:24,804 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:25,767 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:27,201 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:33,040 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:39,075 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:41,161 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:41,921 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:49,304 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:52:55,708 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:01,924 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:08,080 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:12,532 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:13,786 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:19,630 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:25,129 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:26,186 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:27,115 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:30,157 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:31,288 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:37,030 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 17:53:44,011 INFO [amun_request_handler] Unicode decode error: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-08-26 18:44:16,546 INFO [amun_request_handler] command received: ls
+2025-08-26 18:44:24,123 INFO [amun_request_handler] command received: uname -a
+2025-08-26 18:44:44,942 INFO [amun_request_handler] command received: ifconfig
+2025-08-26 18:45:02,123 INFO [amun_request_handler] command received: cd home
+2025-08-26 19:35:11,139 INFO [amun_request_handler] command received: ls
+2025-08-26 19:35:49,496 INFO [amun_request_handler] command received: cd Downloads
+2025-08-26 19:36:04,529 INFO [amun_request_handler] command received: cd home
+2025-08-26 19:37:39,496 INFO [amun_request_handler] command received: uname -a

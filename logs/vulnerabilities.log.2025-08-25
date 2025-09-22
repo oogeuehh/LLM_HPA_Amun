@@ -1,0 +1,10 @@
+2025-08-25 21:06:44,719 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2025-08-25 21:39:54,709 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2025-08-25 21:39:58,927 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ls
+ (Bytes: 4)
+2025-08-25 21:54:04,875 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2025-08-25 21:54:59,309 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ÿý&ÿû&ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû# (Bytes: 33)
+2025-08-25 21:55:04,227 INFO [vuln_check] CHECK (192.168.1.12) Incoming: ls
+ (Bytes: 4)
+2025-08-25 21:55:18,769 INFO [vuln_check] CHECK (192.168.1.12) Incoming: cd bin
+ (Bytes: 8)

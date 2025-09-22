@@ -1,0 +1,12 @@
+2025-08-27 15:14:08,055 INFO [amun_server] handle_error
+2025-08-27 15:14:08,056 INFO [amun_server] Traceback (most recent call last):
+  File "/usr/lib/python2.7/asyncore.py", line 108, in readwrite
+    obj.handle_read_event()
+  File "/usr/lib/python2.7/asyncore.py", line 443, in handle_read_event
+    self.handle_accept()
+  File "amun_server.py", line 136, in handle_accept
+    addr)
+  File "core/amun_request_handler.py", line 179, in handle_incoming_connection
+    self.llm = LLMContextManager(max_history=20)
+TypeError: __init__() takes at least 4 arguments (2 given)
+
